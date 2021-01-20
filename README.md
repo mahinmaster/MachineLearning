@@ -1,0 +1,4 @@
+# DS3000-data
+This github repo contains the FP4 Deliverable and related data for group 10 in Chalar Yildrim's DS3000 class. Section 2 Fall 2020. 
+
+This project uses historical economic indicators to predict the closing price of the stock APPL. Predicting a stock’s price can be very financially beneficial for individuals and institutions; and therefore, this project aims to build a connection between economics and the stock market. Our data is acquired from the United States bureau of statistics. Specifically, we used the FRED API to download csv files of the historical data. We are using several different variables as our independent variables such as CPI, unemployment rate and opening price of APPL. Using these independent variables, the dependent variable of the closing price of APPL will be predicted. We are using regression analysis to solve this supervised ML problem. Through model optimization, we have optimized the regression model and obtained results.
